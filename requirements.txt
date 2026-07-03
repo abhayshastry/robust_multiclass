@@ -1,0 +1,6 @@
+numpy
+scipy
+scikit-learn
+cvxpy
+matplotlib
+liac-arff
